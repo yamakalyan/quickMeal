@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import drawerSlice from "./features/drawer";
+import drawerSlice from "./Features/drawer";
 
 export const store = configureStore({
   reducer: {
