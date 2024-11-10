@@ -1,0 +1,19 @@
+.card {
+  background-color: var(--mantine-color-body);
+ transition:
+    transform 350ms ease,
+    box-shadow 350ms ease;
+background: transparent;
+border: 1px solid var(--mantine-color-gray-1);
+
+  &:hover {
+    transform: scale(1.01);
+    box-shadow: 0px 10px 40px var(--mantine-color-gray-2);
+  }
+}
+
+.title {
+  font-family:
+    Greycliff CF,
+    var(--mantine-font-family);
+}
