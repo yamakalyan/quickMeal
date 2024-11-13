@@ -13,7 +13,7 @@ Available Scripts
 
 Demo
 
-You can view a live demo of the QuickMeal website here.
+You can view a live demo of the QuickMeal website here. https://quickmeal-alpha.vercel.app
 
 Features
 
